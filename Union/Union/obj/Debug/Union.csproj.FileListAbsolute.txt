@@ -1,0 +1,777 @@
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_02_вTable_добавили_множестваIDиBodyстолбцов\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_02_вTable_добавили_множестваIDиBodyстолбцов\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_02_вTable_добавили_множестваIDиBodyстолбцов\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_02_вTable_добавили_множестваIDиBodyстолбцов\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_02_вTable_добавили_множестваIDиBodyстолбцов\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_02_вTable_добавили_множестваIDиBodyстолбцов\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_02_вTable_добавили_множестваIDиBodyстолбцов\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_02_вTable_добавили_множестваIDиBodyстолбцов\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_02_вTable_добавили_множестваIDиBodyстолбцов\Union\obj\Debug\Project.MainForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_03_применимСтратгиюЗаглушек\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_03_применимСтратгиюЗаглушек\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_03_применимСтратгиюЗаглушек\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_03_применимСтратгиюЗаглушек\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_03_применимСтратгиюЗаглушек\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_03_применимСтратгиюЗаглушек\Union\obj\Debug\Project.MainForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_03_применимСтратгиюЗаглушек\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_03_применимСтратгиюЗаглушек\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_03_применимСтратгиюЗаглушек\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_04_пытаемся_подружить_универсальный_и_конкретные_типы\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_04_пытаемся_подружить_универсальный_и_конкретные_типы\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_04_пытаемся_подружить_универсальный_и_конкретные_типы\Union\obj\Debug\Project.MainForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_04_пытаемся_подружить_универсальный_и_конкретные_типы\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_04_пытаемся_подружить_универсальный_и_конкретные_типы\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_05_нет_делаем_int\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_05_нет_делаем_int\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_05_нет_делаем_int\Union\obj\Debug\Project.MainForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_05_нет_делаем_int\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_05_нет_делаем_int\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_05_нет_делаем_int\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_05_нет_делаем_int\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_05_нет_делаем_int\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_05_нет_делаем_int\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_06_переносим код в program\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_06_переносим код в program\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_06_переносим код в program\Union\obj\Debug\Project.MainForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_06_переносим код в program\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_06_переносим код в program\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_06_переносим код в program\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_06_переносим код в program\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_06_переносим код в program\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_06_переносим код в program\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_07_делаемMainForm(не более)\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_07_делаемMainForm(не более)\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_07_делаемMainForm(не более)\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_07_делаемMainForm(не более)\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_07_делаемMainForm(не более)\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_07_делаемMainForm(не более)\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_07_делаемMainForm(не более)\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_07_делаемMainForm(не более)\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_07_делаемMainForm(не более)\Union\obj\Debug\Project.GUI.MainForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_08_превращаем_Отображалку таблицы в контрол\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_08_превращаем_Отображалку таблицы в контрол\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_08_превращаем_Отображалку таблицы в контрол\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_08_превращаем_Отображалку таблицы в контрол\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_08_превращаем_Отображалку таблицы в контрол\Union\obj\Debug\Project.GUI.MainForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_08_превращаем_Отображалку таблицы в контрол\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_08_превращаем_Отображалку таблицы в контрол\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_08_превращаем_Отображалку таблицы в контрол\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_08_превращаем_Отображалку таблицы в контрол\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_08_превращаем_Отображалку таблицы в контрол\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_10_вставляем отображалку в mainForm\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_10_вставляем отображалку в mainForm\Union\obj\Debug\Project.GUI.MainForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_10_вставляем отображалку в mainForm\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_10_вставляем отображалку в mainForm\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_10_вставляем отображалку в mainForm\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_10_вставляем отображалку в mainForm\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_10_вставляем отображалку в mainForm\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_10_вставляем отображалку в mainForm\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_10_вставляем отображалку в mainForm\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_10_вставляем отображалку в mainForm\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_11_делаем остановку и запуск сервера\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_11_делаем остановку и запуск сервера\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_11_делаем остановку и запуск сервера\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_11_делаем остановку и запуск сервера\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_11_делаем остановку и запуск сервера\Union\obj\Debug\Project.GUI.MainForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_11_делаем остановку и запуск сервера\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_11_делаем остановку и запуск сервера\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_11_делаем остановку и запуск сервера\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_11_делаем остановку и запуск сервера\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_11_делаем остановку и запуск сервера\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_12_делаем добавление счётчиков\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_12_делаем добавление счётчиков\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_12_делаем добавление счётчиков\Union\obj\Debug\Project.GUI.MainForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_12_делаем добавление счётчиков\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_12_делаем добавление счётчиков\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_12_делаем добавление счётчиков\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_12_делаем добавление счётчиков\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_12_делаем добавление счётчиков\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_12_делаем добавление счётчиков\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_12_делаем добавление счётчиков\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_12_делаем добавление счётчиков\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_делаем виджет диаграмму\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_делаем виджет диаграмму\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_делаем виджет диаграмму\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_делаем виджет диаграмму\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_делаем виджет диаграмму\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_делаем виджет диаграмму\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_делаем виджет диаграмму\Union\obj\Debug\Project.GUI.MainForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_делаем виджет диаграмму\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_делаем виджет диаграмму\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_делаем виджет диаграмму\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_делаем виджет диаграмму\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_делаем виджет диаграмму\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в chartHeidible\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в chartHeidible\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в chartHeidible\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в chartHeidible\Union\obj\Debug\Project.GUI.MainForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в chartHeidible\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в chartHeidible\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в chartHeidible\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в chartHeidible\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в chartHeidible\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в chartHeidible\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в chartHeidible\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в chartHeidible\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в ChartHideable\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в ChartHideable\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в ChartHideable\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в ChartHideable\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в ChartHideable\Union\obj\Debug\Project.FormTSTChart.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в ChartHideable\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в ChartHideable\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в ChartHideable\Union\obj\Debug\Project.GUI.MainForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в ChartHideable\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в ChartHideable\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в ChartHideable\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в ChartHideable\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_13_переделываем диаграмму в ChartHideable\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_15_возвращаем виджет диаграммы на место\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_15_возвращаем виджет диаграммы на место\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_15_возвращаем виджет диаграммы на место\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_15_возвращаем виджет диаграммы на место\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_15_возвращаем виджет диаграммы на место\Union\obj\Debug\Project.FormTSTChart.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_15_возвращаем виджет диаграммы на место\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_15_возвращаем виджет диаграммы на место\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_15_возвращаем виджет диаграммы на место\Union\obj\Debug\Project.GUI.MainForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_15_возвращаем виджет диаграммы на место\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_15_возвращаем виджет диаграммы на место\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_15_возвращаем виджет диаграммы на место\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_15_возвращаем виджет диаграммы на место\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_15_возвращаем виджет диаграммы на место\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_16_делаем движение графика в одностороннем порядке\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_16_делаем движение графика в одностороннем порядке\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_16_делаем движение графика в одностороннем порядке\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_16_делаем движение графика в одностороннем порядке\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_16_делаем движение графика в одностороннем порядке\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_16_делаем движение графика в одностороннем порядке\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_16_делаем движение графика в одностороннем порядке\Union\obj\Debug\Project.FormTSTChart.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_16_делаем движение графика в одностороннем порядке\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_16_делаем движение графика в одностороннем порядке\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_16_делаем движение графика в одностороннем порядке\Union\obj\Debug\Project.GUI.MainForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_16_делаем движение графика в одностороннем порядке\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_16_делаем движение графика в одностороннем порядке\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_16_делаем движение графика в одностороннем порядке\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_16_делаем движение графика в одностороннем порядке\Union\obj\Debug\Project.GUI.Control_ChartHideable_Old.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_17_делаем Chart_Realtime\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_17_делаем Chart_Realtime\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_17_делаем Chart_Realtime\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_17_делаем Chart_Realtime\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_17_делаем Chart_Realtime\Union\obj\Debug\Project.FormTSTChart.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_17_делаем Chart_Realtime\Union\obj\Debug\Project.GUI.Control_ChartHideable_Old.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_17_делаем Chart_Realtime\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_17_делаем Chart_Realtime\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_17_делаем Chart_Realtime\Union\obj\Debug\Project.GUI.MainForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_17_делаем Chart_Realtime\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_17_делаем Chart_Realtime\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_17_делаем Chart_Realtime\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_17_делаем Chart_Realtime\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_17_делаем Chart_Realtime\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_18_добавляем ChartHeidible выдачу таблицы_и рефакторим ChartRealtime\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_18_добавляем ChartHeidible выдачу таблицы_и рефакторим ChartRealtime\Union\obj\Debug\Project.FormTSTChart.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_18_добавляем ChartHeidible выдачу таблицы_и рефакторим ChartRealtime\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_18_добавляем ChartHeidible выдачу таблицы_и рефакторим ChartRealtime\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_18_добавляем ChartHeidible выдачу таблицы_и рефакторим ChartRealtime\Union\obj\Debug\Project.GUI.MainForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_18_добавляем ChartHeidible выдачу таблицы_и рефакторим ChartRealtime\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_18_добавляем ChartHeidible выдачу таблицы_и рефакторим ChartRealtime\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_18_добавляем ChartHeidible выдачу таблицы_и рефакторим ChartRealtime\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_18_добавляем ChartHeidible выдачу таблицы_и рефакторим ChartRealtime\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_18_добавляем ChartHeidible выдачу таблицы_и рефакторим ChartRealtime\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_18_добавляем ChartHeidible выдачу таблицы_и рефакторим ChartRealtime\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_18_добавляем ChartHeidible выдачу таблицы_и рефакторим ChartRealtime\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_18_добавляем ChartHeidible выдачу таблицы_и рефакторим ChartRealtime\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_19_удалим в ChartHeidible метод isTableSetted\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_19_удалим в ChartHeidible метод isTableSetted\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_19_удалим в ChartHeidible метод isTableSetted\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_19_удалим в ChartHeidible метод isTableSetted\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_19_удалим в ChartHeidible метод isTableSetted\Union\obj\Debug\Project.FormTSTChart.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_19_удалим в ChartHeidible метод isTableSetted\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_19_удалим в ChartHeidible метод isTableSetted\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_19_удалим в ChartHeidible метод isTableSetted\Union\obj\Debug\Project.GUI.MainForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_19_удалим в ChartHeidible метод isTableSetted\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_19_удалим в ChartHeidible метод isTableSetted\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_19_удалим в ChartHeidible метод isTableSetted\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_19_удалим в ChartHeidible метод isTableSetted\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_19_удалим в ChartHeidible метод isTableSetted\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_20_облачаем mainWindow в интерфейс\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_20_облачаем mainWindow в интерфейс\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_20_облачаем mainWindow в интерфейс\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_20_облачаем mainWindow в интерфейс\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_20_облачаем mainWindow в интерфейс\Union\obj\Debug\Project.FormTSTChart.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_20_облачаем mainWindow в интерфейс\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_20_облачаем mainWindow в интерфейс\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_20_облачаем mainWindow в интерфейс\Union\obj\Debug\Project.GUI.FormMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_20_облачаем mainWindow в интерфейс\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_20_облачаем mainWindow в интерфейс\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_20_облачаем mainWindow в интерфейс\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_20_облачаем mainWindow в интерфейс\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_20_облачаем mainWindow в интерфейс\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_21 создаём AppController\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_21 создаём AppController\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_21 создаём AppController\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_21 создаём AppController\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_21 создаём AppController\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_21 создаём AppController\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_21 создаём AppController\Union\obj\Debug\Project.GUI.ViewMain.FormMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_21 создаём AppController\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_21 создаём AppController\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_21 создаём AppController\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_21 создаём AppController\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_21 создаём AppController\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки\Union\obj\Debug\Project.GUI.ViewMain.FormMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки (программа пока разобрана)\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки (программа пока разобрана)\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки (программа пока разобрана)\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки (программа пока разобрана)\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки (программа пока разобрана)\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки (программа пока разобрана)\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки (программа пока разобрана)\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки (программа пока разобрана)\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки (программа пока разобрана)\Union\obj\Debug\Project.GUI.ViewMain.FormMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки (программа пока разобрана)\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки (программа пока разобрана)\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_22 переносим вкладки (программа пока разобрана)\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_23 пусть будет 10 счётчиков\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_23 пусть будет 10 счётчиков\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_23 пусть будет 10 счётчиков\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_23 пусть будет 10 счётчиков\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_23 пусть будет 10 счётчиков\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_23 пусть будет 10 счётчиков\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_23 пусть будет 10 счётчиков\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_23 пусть будет 10 счётчиков\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_23 пусть будет 10 счётчиков\Union\obj\Debug\Project.GUI.ViewMain.FormMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_23 пусть будет 10 счётчиков\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_23 пусть будет 10 счётчиков\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_23 пусть будет 10 счётчиков\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_24 отобразим диаграмму при старте программы\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_24 отобразим диаграмму при старте программы\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_24 отобразим диаграмму при старте программы\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_24 отобразим диаграмму при старте программы\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_24 отобразим диаграмму при старте программы\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_24 отобразим диаграмму при старте программы\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_24 отобразим диаграмму при старте программы\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_24 отобразим диаграмму при старте программы\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_24 отобразим диаграмму при старте программы\Union\obj\Debug\Project.GUI.ViewMain.FormMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_24 отобразим диаграмму при старте программы\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_24 отобразим диаграмму при старте программы\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_24 отобразим диаграмму при старте программы\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_25 пишем презентир\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_25 пишем презентир\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_25 пишем презентир\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_25 пишем презентир\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_25 пишем презентир\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_25 пишем презентир\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_25 пишем презентир\Union\obj\Debug\Project.GUI.ViewMain.FormMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_25 пишем презентир\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_25 пишем презентир\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_25 пишем презентир\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_25 пишем презентир\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_25 пишем презентир\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_26 узнаём остаются ли события когда вкладка с диаграммой закрывается\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_26 узнаём остаются ли события когда вкладка с диаграммой закрывается\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_26 узнаём остаются ли события когда вкладка с диаграммой закрывается\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_26 узнаём остаются ли события когда вкладка с диаграммой закрывается\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_26 узнаём остаются ли события когда вкладка с диаграммой закрывается\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_26 узнаём остаются ли события когда вкладка с диаграммой закрывается\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_26 узнаём остаются ли события когда вкладка с диаграммой закрывается\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_26 узнаём остаются ли события когда вкладка с диаграммой закрывается\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_26 узнаём остаются ли события когда вкладка с диаграммой закрывается\Union\obj\Debug\Project.GUI.ViewMain.FormMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_26 узнаём остаются ли события когда вкладка с диаграммой закрывается\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_26 узнаём остаются ли события когда вкладка с диаграммой закрывается\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_26 узнаём остаются ли события когда вкладка с диаграммой закрывается\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_27 расширяем презентир-chart\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_27 расширяем презентир-chart\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_27 расширяем презентир-chart\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_27 расширяем презентир-chart\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_27 расширяем презентир-chart\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_27 расширяем презентир-chart\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_27 расширяем презентир-chart\Union\obj\Debug\Project.GUI.ViewMain.FormMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_27 расширяем презентир-chart\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_27 расширяем презентир-chart\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_27 расширяем презентир-chart\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_27 расширяем презентир-chart\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_27 расширяем презентир-chart\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_28 убираемся в коде\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_28 убираемся в коде\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_28 убираемся в коде\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_28 убираемся в коде\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_28 убираемся в коде\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_28 убираемся в коде\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_28 убираемся в коде\Union\obj\Debug\Project.GUI.ViewMain.FormMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_28 убираемся в коде\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_28 убираемся в коде\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_28 убираемся в коде\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_28 убираемся в коде\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_28 убираемся в коде\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_29 размораживаем презентир chart-server c целью борьбы с остающимися обработчиками\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_29 размораживаем презентир chart-server c целью борьбы с остающимися обработчиками\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_29 размораживаем презентир chart-server c целью борьбы с остающимися обработчиками\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_29 размораживаем презентир chart-server c целью борьбы с остающимися обработчиками\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_29 размораживаем презентир chart-server c целью борьбы с остающимися обработчиками\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_29 размораживаем презентир chart-server c целью борьбы с остающимися обработчиками\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_29 размораживаем презентир chart-server c целью борьбы с остающимися обработчиками\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_29 размораживаем презентир chart-server c целью борьбы с остающимися обработчиками\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_29 размораживаем презентир chart-server c целью борьбы с остающимися обработчиками\Union\obj\Debug\Project.GUI.ViewMain.FormMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_29 размораживаем презентир chart-server c целью борьбы с остающимися обработчиками\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_29 размораживаем презентир chart-server c целью борьбы с остающимися обработчиками\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_29 размораживаем презентир chart-server c целью борьбы с остающимися обработчиками\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_30 делаем копию chart-а которая не перестирает чекбоксы если установлена таблица с такими-же столбцами\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_30 делаем копию chart-а которая не перестирает чекбоксы если установлена таблица с такими-же столбцами\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_30 делаем копию chart-а которая не перестирает чекбоксы если установлена таблица с такими-же столбцами\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_30 делаем копию chart-а которая не перестирает чекбоксы если установлена таблица с такими-же столбцами\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_30 делаем копию chart-а которая не перестирает чекбоксы если установлена таблица с такими-же столбцами\Union\obj\Debug\Project.GUI.Control_ChartHideable_noClearingChekboxes.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_30 делаем копию chart-а которая не перестирает чекбоксы если установлена таблица с такими-же столбцами\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_30 делаем копию chart-а которая не перестирает чекбоксы если установлена таблица с такими-же столбцами\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_30 делаем копию chart-а которая не перестирает чекбоксы если установлена таблица с такими-же столбцами\Union\obj\Debug\Project.GUI.ViewMain.FormMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_30 делаем копию chart-а которая не перестирает чекбоксы если установлена таблица с такими-же столбцами\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_30 делаем копию chart-а которая не перестирает чекбоксы если установлена таблица с такими-же столбцами\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_30 делаем копию chart-а которая не перестирает чекбоксы если установлена таблица с такими-же столбцами\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_30 делаем копию chart-а которая не перестирает чекбоксы если установлена таблица с такими-же столбцами\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_30 делаем копию chart-а которая не перестирает чекбоксы если установлена таблица с такими-же столбцами\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_31 рефакторим chartRealtime\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_31 рефакторим chartRealtime\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_31 рефакторим chartRealtime\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_31 рефакторим chartRealtime\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_31 рефакторим chartRealtime\Union\obj\Debug\Project.GUI.Control_ChartHideable_noClearingChekboxes.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_31 рефакторим chartRealtime\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_31 рефакторим chartRealtime\Union\obj\Debug\Project.GUI.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_31 рефакторим chartRealtime\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_31 рефакторим chartRealtime\Union\obj\Debug\Project.GUI.ViewMain.FormMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_31 рефакторим chartRealtime\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_31 рефакторим chartRealtime\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_31 рефакторим chartRealtime\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_31 рефакторим chartRealtime\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_31 рефакторим chartRealtime\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_32 добавляем настроечное ядро\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_32 добавляем настроечное ядро\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_32 добавляем настроечное ядро\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_32 добавляем настроечное ядро\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_32 добавляем настроечное ядро\Union\obj\Debug\Project.GUI.Control_ChartHideable_noClearingChekboxes.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_32 добавляем настроечное ядро\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_32 добавляем настроечное ядро\Union\obj\Debug\Project.GUI.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_32 добавляем настроечное ядро\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_32 добавляем настроечное ядро\Union\obj\Debug\Project.GUI.ViewMain.FormMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_32 добавляем настроечное ядро\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_32 добавляем настроечное ядро\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_32 добавляем настроечное ядро\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_32 добавляем настроечное ядро\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_32 добавляем настроечное ядро\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_33 разделяем окна и страницы\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_33 разделяем окна и страницы\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_33 разделяем окна и страницы\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_33 разделяем окна и страницы\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_33 разделяем окна и страницы\Union\obj\Debug\Project.GUI.Pages.PageSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_33 разделяем окна и страницы\Union\obj\Debug\Project.GUI.Control_ChartHideable_noClearingChekboxes.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_33 разделяем окна и страницы\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_33 разделяем окна и страницы\Union\obj\Debug\Project.GUI.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_33 разделяем окна и страницы\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_33 разделяем окна и страницы\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_33 разделяем окна и страницы\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_33 разделяем окна и страницы\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_33 разделяем окна и страницы\Union\obj\Debug\Project.GUI.ViewMain.PageMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_33 разделяем окна и страницы\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_33 разделяем окна и страницы\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_33 разделяем окна и страницы\Union\obj\Debug\Project.GUI.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_34 продолжаем 33\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_34 продолжаем 33\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_34 продолжаем 33\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_34 продолжаем 33\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_34 продолжаем 33\Union\obj\Debug\Project.GUI.ViewMain.PageMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_34 продолжаем 33\Union\obj\Debug\Project.GUI.Pages.PageSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_34 продолжаем 33\Union\obj\Debug\Project.GUI.Control_ChartHideable_noClearingChekboxes.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_34 продолжаем 33\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_34 продолжаем 33\Union\obj\Debug\Project.GUI.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_34 продолжаем 33\Union\obj\Debug\Project.GUI.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_34 продолжаем 33\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_34 продолжаем 33\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_34 продолжаем 33\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_34 продолжаем 33\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_34 продолжаем 33\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_34 продолжаем 33\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_35 продолжаем 34\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_35 продолжаем 34\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_35 продолжаем 34\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_35 продолжаем 34\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_35 продолжаем 34\Union\obj\Debug\Project.GUI.ViewMain.PageMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_35 продолжаем 34\Union\obj\Debug\Project.GUI.Control_ChartHideable_noClearingChekboxes.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_35 продолжаем 34\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_35 продолжаем 34\Union\obj\Debug\Project.GUI.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_35 продолжаем 34\Union\obj\Debug\Project.GUI.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_35 продолжаем 34\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_35 продолжаем 34\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_35 продолжаем 34\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_35 продолжаем 34\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_35 продолжаем 34\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_35 продолжаем 34\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_35 продолжаем 34\Union\obj\Debug\Project.GUI.PageSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_37\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_37\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_37\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_37\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_37\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_37\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_37\Union\obj\Debug\Project.GUI.Control_ChartHideable_noClearingChekboxes.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_37\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_37\Union\obj\Debug\Project.GUI.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_37\Union\obj\Debug\Project.GUI.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_37\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_37\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_37\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_37\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_37\Union\obj\Debug\Project.GUI.ViewMain.FormMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_37\Union\obj\Debug\Project.GUI.FormSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_38 Выделяем навигацию в отдельный класс\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_38 Выделяем навигацию в отдельный класс\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_38 Выделяем навигацию в отдельный класс\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_38 Выделяем навигацию в отдельный класс\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_38 Выделяем навигацию в отдельный класс\Union\obj\Debug\Project.GUI.ViewMain.FormMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_38 Выделяем навигацию в отдельный класс\Union\obj\Debug\Project.GUI.FormSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_38 Выделяем навигацию в отдельный класс\Union\obj\Debug\Project.GUI.Control_ChartHideable_noClearingChekboxes.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_38 Выделяем навигацию в отдельный класс\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_38 Выделяем навигацию в отдельный класс\Union\obj\Debug\Project.GUI.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_38 Выделяем навигацию в отдельный класс\Union\obj\Debug\Project.GUI.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_38 Выделяем навигацию в отдельный класс\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_38 Выделяем навигацию в отдельный класс\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_38 Выделяем навигацию в отдельный класс\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_38 Выделяем навигацию в отдельный класс\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_38 Выделяем навигацию в отдельный класс\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_38 Выделяем навигацию в отдельный класс\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_39 Упрощаем AppController\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_39 Упрощаем AppController\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_39 Упрощаем AppController\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_39 Упрощаем AppController\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_39 Упрощаем AppController\Union\obj\Debug\Project.GUI.ViewMain.FormMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_39 Упрощаем AppController\Union\obj\Debug\Project.GUI.FormSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_39 Упрощаем AppController\Union\obj\Debug\Project.GUI.Control_ChartHideable_noClearingChekboxes.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_39 Упрощаем AppController\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_39 Упрощаем AppController\Union\obj\Debug\Project.GUI.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_39 Упрощаем AppController\Union\obj\Debug\Project.GUI.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_39 Упрощаем AppController\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_39 Упрощаем AppController\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_39 Упрощаем AppController\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_39 Упрощаем AppController\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_39 Упрощаем AppController\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_39 Упрощаем AppController\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_40 пытаемся отрефакторить презентиры\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_40 пытаемся отрефакторить презентиры\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_40 пытаемся отрефакторить презентиры\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_40 пытаемся отрефакторить презентиры\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_40 пытаемся отрефакторить презентиры\Union\obj\Debug\Project.GUI.ViewMain.FormMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_40 пытаемся отрефакторить презентиры\Union\obj\Debug\Project.GUI.FormSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_40 пытаемся отрефакторить презентиры\Union\obj\Debug\Project.GUI.Control_ChartHideable_noClearingChekboxes.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_40 пытаемся отрефакторить презентиры\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_40 пытаемся отрефакторить презентиры\Union\obj\Debug\Project.GUI.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_40 пытаемся отрефакторить презентиры\Union\obj\Debug\Project.GUI.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_40 пытаемся отрефакторить презентиры\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_40 пытаемся отрефакторить презентиры\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_40 пытаемся отрефакторить презентиры\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_40 пытаемся отрефакторить презентиры\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_40 пытаемся отрефакторить презентиры\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_40 пытаемся отрефакторить презентиры\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_40 презентиры преобразованы в связи\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_40 презентиры преобразованы в связи\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_40 презентиры преобразованы в связи\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_41 добавляем настраивоемость задержки таймера\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_41 добавляем настраивоемость задержки таймера\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_41 добавляем настраивоемость задержки таймера\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_41 добавляем настраивоемость задержки таймера\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_41 добавляем настраивоемость задержки таймера\Union\obj\Debug\Project.GUI.ViewMain.FormMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_41 добавляем настраивоемость задержки таймера\Union\obj\Debug\Project.GUI.FormSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_41 добавляем настраивоемость задержки таймера\Union\obj\Debug\Project.GUI.Control_ChartHideable_noClearingChekboxes.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_41 добавляем настраивоемость задержки таймера\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_41 добавляем настраивоемость задержки таймера\Union\obj\Debug\Project.GUI.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_41 добавляем настраивоемость задержки таймера\Union\obj\Debug\Project.GUI.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_41 добавляем настраивоемость задержки таймера\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_41 добавляем настраивоемость задержки таймера\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_41 добавляем настраивоемость задержки таймера\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_41 добавляем настраивоемость задержки таймера\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_41 добавляем настраивоемость задержки таймера\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_41 добавляем настраивоемость задержки таймера\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_42 вместо перезагрузки треда таймера делаем остановку сервера при включении настроек\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_42 вместо перезагрузки треда таймера делаем остановку сервера при включении настроек\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_42 вместо перезагрузки треда таймера делаем остановку сервера при включении настроек\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_42 вместо перезагрузки треда таймера делаем остановку сервера при включении настроек\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_42 вместо перезагрузки треда таймера делаем остановку сервера при включении настроек\Union\obj\Debug\Project.GUI.ViewMain.FormMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_42 вместо перезагрузки треда таймера делаем остановку сервера при включении настроек\Union\obj\Debug\Project.GUI.FormSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_42 вместо перезагрузки треда таймера делаем остановку сервера при включении настроек\Union\obj\Debug\Project.GUI.Control_ChartHideable_noClearingChekboxes.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_42 вместо перезагрузки треда таймера делаем остановку сервера при включении настроек\Union\obj\Debug\Project.GUI.Control_ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_42 вместо перезагрузки треда таймера делаем остановку сервера при включении настроек\Union\obj\Debug\Project.GUI.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_42 вместо перезагрузки треда таймера делаем остановку сервера при включении настроек\Union\obj\Debug\Project.GUI.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_42 вместо перезагрузки треда таймера делаем остановку сервера при включении настроек\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_42 вместо перезагрузки треда таймера делаем остановку сервера при включении настроек\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_42 вместо перезагрузки треда таймера делаем остановку сервера при включении настроек\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_42 вместо перезагрузки треда таймера делаем остановку сервера при включении настроек\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_42 вместо перезагрузки треда таймера делаем остановку сервера при включении настроек\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_42 вместо перезагрузки треда таймера делаем остановку сервера при включении настроек\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_44-42 шпаклюем\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_44-42 шпаклюем\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_44-42 шпаклюем\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_44-42 шпаклюем\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_44-42 шпаклюем\Union\obj\Debug\Project.GUI.ViewMain.FormMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_44-42 шпаклюем\Union\obj\Debug\Project.GUI.FormSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_44-42 шпаклюем\Union\obj\Debug\Project.GUI.ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_44-42 шпаклюем\Union\obj\Debug\Project.GUI.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_44-42 шпаклюем\Union\obj\Debug\Project.GUI.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_44-42 шпаклюем\Union\obj\Debug\Project.GUI.InputStringForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_44-42 шпаклюем\Union\obj\Debug\Project.GUI.TableViewerControl.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_44-42 шпаклюем\Union\obj\Debug\Project.Infrastructure.DataTableViewForm.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_44-42 шпаклюем\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_44-42 шпаклюем\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_44-42 шпаклюем\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_45 шпаклюем\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_45 шпаклюем\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_45 шпаклюем\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_45 шпаклюем\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_45 шпаклюем\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_45 шпаклюем\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_45 шпаклюем\Union\obj\Debug\Project.GUI.ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_45 шпаклюем\Union\obj\Debug\Project.GUI.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_45 шпаклюем\Union\obj\Debug\Project.GUI.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_45 шпаклюем\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_45 шпаклюем\Union\obj\Debug\Project.GUI.PageSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_45 шпаклюем\Union\obj\Debug\Project.GUI.ViewMain.PageMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_45 шпаклюем\Union\obj\Debug\Project.GUI.FormInputString.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_46 пробуем заменить FormInputString на InputBox\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_46 пробуем заменить FormInputString на InputBox\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_46 пробуем заменить FormInputString на InputBox\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_46 пробуем заменить FormInputString на InputBox\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_46 пробуем заменить FormInputString на InputBox\Union\obj\Debug\Project.GUI.ViewMain.PageMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_46 пробуем заменить FormInputString на InputBox\Union\obj\Debug\Project.GUI.PageSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_46 пробуем заменить FormInputString на InputBox\Union\obj\Debug\Project.GUI.ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_46 пробуем заменить FormInputString на InputBox\Union\obj\Debug\Project.GUI.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_46 пробуем заменить FormInputString на InputBox\Union\obj\Debug\Project.GUI.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_46 пробуем заменить FormInputString на InputBox\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_46 пробуем заменить FormInputString на InputBox\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_46 пробуем заменить FormInputString на InputBox\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_46 FormInputString заменён на InputBox\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_46 FormInputString заменён на InputBox\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_46 FormInputString заменён на InputBox\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_47 утверждаем названия servera\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_47 утверждаем названия servera\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_47 утверждаем названия servera\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_47 утверждаем названия servera\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_47 утверждаем названия servera\Union\obj\Debug\Project.GUI.ViewMain.PageMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_47 утверждаем названия servera\Union\obj\Debug\Project.GUI.PageSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_47 утверждаем названия servera\Union\obj\Debug\Project.GUI.ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_47 утверждаем названия servera\Union\obj\Debug\Project.GUI.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_47 утверждаем названия servera\Union\obj\Debug\Project.GUI.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_47 утверждаем названия servera\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_47 утверждаем названия servera\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_47 утверждаем названия servera\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48 Расставим неймспейсы\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48 Расставим неймспейсы\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48 Расставим неймспейсы\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48 Расставим неймспейсы\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48 Расставим неймспейсы\Union\obj\Debug\Project.GUI.Pages.PageMain.PageMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48 Расставим неймспейсы\Union\obj\Debug\Project.GUI.PageSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48 Расставим неймспейсы\Union\obj\Debug\Project.GUI.ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48 Расставим неймспейсы\Union\obj\Debug\Project.GUI.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48 Расставим неймспейсы\Union\obj\Debug\Project.GUI.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48 Расставим неймспейсы\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48 Расставим неймспейсы\Union\obj\Debug\Project.GUI.Pages.PageSettings.PageSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48 Расставим неймспейсы\Union\obj\Debug\Project.GUI.Widgets.ChartHeideable.ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48 Расставим неймспейсы\Union\obj\Debug\Project.GUI.Widgets.ChartRealtime.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48 Расставим неймспейсы\Union\obj\Debug\Project.GUI.Windows.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.2 Расставим неймспейсы (расставляем юзинги)\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.2 Расставим неймспейсы (расставляем юзинги)\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.2 Расставим неймспейсы (расставляем юзинги)\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.2 Расставим неймспейсы (расставляем юзинги)\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.2 Расставим неймспейсы (расставляем юзинги)\Union\obj\Debug\Project.GUI.Pages.PageMain.PageMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.2 Расставим неймспейсы (расставляем юзинги)\Union\obj\Debug\Project.GUI.Pages.PageSettings.PageSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.2 Расставим неймспейсы (расставляем юзинги)\Union\obj\Debug\Project.GUI.Widgets.ChartHeideable.ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.2 Расставим неймспейсы (расставляем юзинги)\Union\obj\Debug\Project.GUI.Widgets.ChartRealtime.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.2 Расставим неймспейсы (расставляем юзинги)\Union\obj\Debug\Project.GUI.Windows.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.2 Расставим неймспейсы (расставляем юзинги)\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.2 Расставим неймспейсы (расставляем юзинги)\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.2 Расставим неймспейсы (расставляем юзинги)\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.3 делаем удаление счётчиков\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.3 делаем удаление счётчиков\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.3 делаем удаление счётчиков\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.3 делаем удаление счётчиков\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.3 делаем удаление счётчиков\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.3 делаем удаление счётчиков\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.3 делаем удаление счётчиков\Union\obj\Debug\Project.GUI.Pages.PageMain.PageMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.3 делаем удаление счётчиков\Union\obj\Debug\Project.GUI.Pages.PageSettings.PageSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.3 делаем удаление счётчиков\Union\obj\Debug\Project.GUI.Widgets.ChartHeideable.ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.3 делаем удаление счётчиков\Union\obj\Debug\Project.GUI.Widgets.ChartRealtime.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.3 делаем удаление счётчиков\Union\obj\Debug\Project.GUI.Windows.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_48.3 делаем удаление счётчиков\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_50 переводим сервер в double\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_50 переводим сервер в double\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_50 переводим сервер в double\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_50 переводим сервер в double\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_50 переводим сервер в double\Union\obj\Debug\Project.GUI.Pages.PageMain.PageMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_50 переводим сервер в double\Union\obj\Debug\Project.GUI.Pages.PageSettings.PageSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_50 переводим сервер в double\Union\obj\Debug\Project.GUI.Widgets.ChartHeideable.ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_50 переводим сервер в double\Union\obj\Debug\Project.GUI.Widgets.ChartRealtime.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_50 переводим сервер в double\Union\obj\Debug\Project.GUI.Windows.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_50 переводим сервер в double\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_50 переводим сервер в double\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_50 переводим сервер в double\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_51 контрольная проверка сервера\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_51 контрольная проверка сервера\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_51 контрольная проверка сервера\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_51.1 решаем проблему семени счётчиков\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_51.1 решаем проблему семени счётчиков\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_51.1 решаем проблему семени счётчиков\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_51.1 решаем проблему семени счётчиков\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_51.1 решаем проблему семени счётчиков\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_51.1 решаем проблему семени счётчиков\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_51.1 решаем проблему семени счётчиков\Union\obj\Debug\Project.GUI.Pages.PageMain.PageMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_51.1 решаем проблему семени счётчиков\Union\obj\Debug\Project.GUI.Pages.PageSettings.PageSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_51.1 решаем проблему семени счётчиков\Union\obj\Debug\Project.GUI.Widgets.ChartHeideable.ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_51.1 решаем проблему семени счётчиков\Union\obj\Debug\Project.GUI.Widgets.ChartRealtime.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_51.1 решаем проблему семени счётчиков\Union\obj\Debug\Project.GUI.Windows.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_51.1 решаем проблему семени счётчиков\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_52\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_52\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_52\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_52\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_52\Union\obj\Debug\Project.GUI.Pages.PageMain.PageMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_52\Union\obj\Debug\Project.GUI.Pages.PageSettings.PageSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_52\Union\obj\Debug\Project.GUI.Widgets.ChartHeideable.ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_52\Union\obj\Debug\Project.GUI.Widgets.ChartRealtime.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_52\Union\obj\Debug\Project.GUI.Windows.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_52\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_52\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_52\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53\Union\obj\Debug\Project.GUI.Pages.PageMain.PageMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53\Union\obj\Debug\Project.GUI.Pages.PageSettings.PageSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53\Union\obj\Debug\Project.GUI.Widgets.ChartHeideable.ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53\Union\obj\Debug\Project.GUI.Widgets.ChartRealtime.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53\Union\obj\Debug\Project.GUI.Windows.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53 подцепляем к столбцам числа\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53 подцепляем к столбцам числа\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53 подцепляем к столбцам числа\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53 подцепляем к столбцам числа\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53 подцепляем к столбцам числа\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53 подцепляем к столбцам числа\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53 подцепляем к столбцам числа\Union\obj\Debug\Project.GUI.Pages.PageMain.PageMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53 подцепляем к столбцам числа\Union\obj\Debug\Project.GUI.Pages.PageSettings.PageSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53 подцепляем к столбцам числа\Union\obj\Debug\Project.GUI.Widgets.ChartHeideable.ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53 подцепляем к столбцам числа\Union\obj\Debug\Project.GUI.Widgets.ChartRealtime.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53 подцепляем к столбцам числа\Union\obj\Debug\Project.GUI.Windows.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_53 подцепляем к столбцам числа\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_54 убираем грязь из dataSourceAdapter\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_54 убираем грязь из dataSourceAdapter\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_54 убираем грязь из dataSourceAdapter\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_54 убираем грязь из dataSourceAdapter\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_54 убираем грязь из dataSourceAdapter\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_54 убираем грязь из dataSourceAdapter\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_54 убираем грязь из dataSourceAdapter\Union\obj\Debug\Project.GUI.Pages.PageMain.PageMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_54 убираем грязь из dataSourceAdapter\Union\obj\Debug\Project.GUI.Pages.PageSettings.PageSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_54 убираем грязь из dataSourceAdapter\Union\obj\Debug\Project.GUI.Widgets.ChartHeideable.ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_54 убираем грязь из dataSourceAdapter\Union\obj\Debug\Project.GUI.Widgets.ChartRealtime.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_54 убираем грязь из dataSourceAdapter\Union\obj\Debug\Project.GUI.Windows.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_54 убираем грязь из dataSourceAdapter\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_55 подчищаем папку GUI\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_55 подчищаем папку GUI\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_55 подчищаем папку GUI\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 подчищаем папку GUI\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 подчищаем папку GUI\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 подчищаем папку GUI\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 подчищаем папку GUI\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 подчищаем папку GUI\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 подчищаем папку GUI\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 подчищаем папку GUI\Union\obj\Debug\Project.GUI.Pages.PageMain.PageMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 подчищаем папку GUI\Union\obj\Debug\Project.GUI.Pages.PageSettings.PageSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 подчищаем папку GUI\Union\obj\Debug\Project.GUI.Widgets.ChartHeideable.ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 подчищаем папку GUI\Union\obj\Debug\Project.GUI.Widgets.ChartRealtime.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 подчищаем папку GUI\Union\obj\Debug\Project.GUI.Windows.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 подчищаем папку GUI\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 осталось подчистить тольео pages\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 осталось подчистить тольео pages\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 осталось подчистить тольео pages\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 осталось подчистить тольео pages\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 осталось подчистить тольео pages\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 осталось подчистить тольео pages\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 осталось подчистить тольео pages\Union\obj\Debug\Project.GUI.Pages.PageMain.PageMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 осталось подчистить тольео pages\Union\obj\Debug\Project.GUI.Pages.PageSettings.PageSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 осталось подчистить тольео pages\Union\obj\Debug\Project.GUI.Widgets.ChartHeideable.ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 осталось подчистить тольео pages\Union\obj\Debug\Project.GUI.Widgets.ChartRealtime.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 осталось подчистить тольео pages\Union\obj\Debug\Project.GUI.Windows.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_56 осталось подчистить тольео pages\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_57 думаем нужна ли фабрика GUI чтоб program был чище\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_57 думаем нужна ли фабрика GUI чтоб program был чище\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_57 думаем нужна ли фабрика GUI чтоб program был чище\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_57 думаем нужна ли фабрика GUI чтоб program был чище\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_57 думаем нужна ли фабрика GUI чтоб program был чище\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_57 думаем нужна ли фабрика GUI чтоб program был чище\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_57 думаем нужна ли фабрика GUI чтоб program был чище\Union\obj\Debug\Project.GUI.Pages.PageMain.PageMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_57 думаем нужна ли фабрика GUI чтоб program был чище\Union\obj\Debug\Project.GUI.Pages.PageSettings.PageSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_57 думаем нужна ли фабрика GUI чтоб program был чище\Union\obj\Debug\Project.GUI.Widgets.ChartHeideable.ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_57 думаем нужна ли фабрика GUI чтоб program был чище\Union\obj\Debug\Project.GUI.Widgets.ChartRealtime.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_57 думаем нужна ли фабрика GUI чтоб program был чище\Union\obj\Debug\Project.GUI.Windows.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_57 думаем нужна ли фабрика GUI чтоб program был чище\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_58 устанавливаем строгие размеры диаграмм, чтобы при начальном заполнении не впадать в ступор\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_58 устанавливаем строгие размеры диаграмм, чтобы при начальном заполнении не впадать в ступор\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_58 устанавливаем строгие размеры диаграмм, чтобы при начальном заполнении не впадать в ступор\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_58 устанавливаем строгие размеры диаграмм, чтобы при начальном заполнении не впадать в ступор\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_58 устанавливаем строгие размеры диаграмм, чтобы при начальном заполнении не впадать в ступор\Union\obj\Debug\Project.GUI.Pages.PageMain.PageMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_58 устанавливаем строгие размеры диаграмм, чтобы при начальном заполнении не впадать в ступор\Union\obj\Debug\Project.GUI.Pages.PageSettings.PageSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_58 устанавливаем строгие размеры диаграмм, чтобы при начальном заполнении не впадать в ступор\Union\obj\Debug\Project.GUI.Widgets.ChartHeideable.ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_58 устанавливаем строгие размеры диаграмм, чтобы при начальном заполнении не впадать в ступор\Union\obj\Debug\Project.GUI.Widgets.ChartRealtime.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_58 устанавливаем строгие размеры диаграмм, чтобы при начальном заполнении не впадать в ступор\Union\obj\Debug\Project.GUI.Windows.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_58 устанавливаем строгие размеры диаграмм, чтобы при начальном заполнении не впадать в ступор\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_58 устанавливаем строгие размеры диаграмм, чтобы при начальном заполнении не впадать в ступор\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_58 устанавливаем строгие размеры диаграмм, чтобы при начальном заполнении не впадать в ступор\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_59 размеры шкал теперь нужно перетащить в настройки\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_59 размеры шкал теперь нужно перетащить в настройки\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_59 размеры шкал теперь нужно перетащить в настройки\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_59 размеры шкал теперь нужно перетащить в настройки\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_59 размеры шкал теперь нужно перетащить в настройки\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_59 размеры шкал теперь нужно перетащить в настройки\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_59 размеры шкал теперь нужно перетащить в настройки\Union\obj\Debug\Project.GUI.Pages.PageMain.PageMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_59 размеры шкал теперь нужно перетащить в настройки\Union\obj\Debug\Project.GUI.Pages.PageSettings.PageSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_59 размеры шкал теперь нужно перетащить в настройки\Union\obj\Debug\Project.GUI.Widgets.ChartHeideable.ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_59 размеры шкал теперь нужно перетащить в настройки\Union\obj\Debug\Project.GUI.Widgets.ChartRealtime.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_59 размеры шкал теперь нужно перетащить в настройки\Union\obj\Debug\Project.GUI.Windows.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_59 размеры шкал теперь нужно перетащить в настройки\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_60 возвращаем (в program) создание элементов вне параметров appController\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_60 возвращаем (в program) создание элементов вне параметров appController\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_60 возвращаем (в program) создание элементов вне параметров appController\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_60 возвращаем (в program) создание элементов вне параметров appController\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_60 возвращаем (в program) создание элементов вне параметров appController\Union\bin\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_60 возвращаем (в program) создание элементов вне параметров appController\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_60 возвращаем (в program) создание элементов вне параметров appController\Union\obj\Debug\Project.GUI.Pages.PageMain.PageMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_60 возвращаем (в program) создание элементов вне параметров appController\Union\obj\Debug\Project.GUI.Pages.PageSettings.PageSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_60 возвращаем (в program) создание элементов вне параметров appController\Union\obj\Debug\Project.GUI.Widgets.ChartHeideable.ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_60 возвращаем (в program) создание элементов вне параметров appController\Union\obj\Debug\Project.GUI.Widgets.ChartRealtime.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_60 возвращаем (в program) создание элементов вне параметров appController\Union\obj\Debug\Project.GUI.Windows.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP_Crspltfrm\Union_60 возвращаем (в program) создание элементов вне параметров appController\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP\Union_61\Union\bin\Debug\Union.exe.config
+C:\work\For_github\Union_AppCtrlr_MVP\Union_61\Union\obj\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP\Union_61\Union\obj\Debug\Union.pdb
+C:\work\For_github\Union_AppCtrlr_MVP\Union_61\Union\obj\Debug\Union.csprojResolveAssemblyReference.cache
+C:\work\For_github\Union_AppCtrlr_MVP\Union_61\Union\obj\Debug\Project.GUI.Pages.PageMain.PageMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP\Union_61\Union\obj\Debug\Project.GUI.Pages.PageSettings.PageSettings.resources
+C:\work\For_github\Union_AppCtrlr_MVP\Union_61\Union\obj\Debug\Project.GUI.Widgets.ChartHeideable.ChartHideable.resources
+C:\work\For_github\Union_AppCtrlr_MVP\Union_61\Union\obj\Debug\Project.GUI.Widgets.ChartRealtime.ChartRealtime.resources
+C:\work\For_github\Union_AppCtrlr_MVP\Union_61\Union\obj\Debug\Project.GUI.Windows.WindowMain.resources
+C:\work\For_github\Union_AppCtrlr_MVP\Union_61\Union\obj\Debug\Union.csproj.GenerateResource.Cache
+C:\work\For_github\Union_AppCtrlr_MVP\Union_61\Union\bin\Debug\Union.exe
+C:\work\For_github\Union_AppCtrlr_MVP\Union_61\Union\bin\Debug\Union.pdb

@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{AD9B408B-FF3A-4BF3-9350-FD8A33D89A23}</ProjectGuid>
+    <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Project</RootNamespace>
+    <AssemblyName>Union</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <NoWin32Manifest>False</NoWin32Manifest>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <Prefer32Bit>True</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Project\ApplicationController.cs" />
+    <Compile Include="Project\ClassRelations\Relation__ChartRealTime_GlobalSettings.cs" />
+    <Compile Include="Project\ClassRelations\Relation__ChartRealTime_Server.cs" />
+    <Compile Include="Project\ClassRelations\Relation__PageMain_Server.cs" />
+    <Compile Include="Project\ClassRelations\Relation__PageSettings_GlobalSettings.cs" />
+    <Compile Include="Project\ClassRelations\Relation__PageSettings_Server.cs" />
+    <Compile Include="Project\ClassRelations\Relation__Server_GlobalSettings.cs" />
+    <Compile Include="Project\DataSource\Server\Factory_Server.cs" />
+    <Compile Include="Project\GUI\Pages\PageMain\APageMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project\GUI\Pages\PageMain\Factory_APageMain.cs" />
+    <Compile Include="Project\GUI\Pages\PageMain\PageMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project\GUI\Pages\PageMain\PageMain.Designer.cs">
+      <DependentUpon>PageMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project\GUI\Pages\PageMain\PageMain_TabPart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project\GUI\Pages\PageSettings\APageSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project\GUI\Pages\PageSettings\Factory_APageSettings.cs" />
+    <Compile Include="Project\GUI\Pages\PageSettings\PageSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project\GUI\Pages\PageSettings\PageSettings.Designer.cs">
+      <DependentUpon>PageSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project\GUI\Pages\PageSettings\IPageSettings.cs" />
+    <Compile Include="Project\GUI\Widgets\ChartRealtime\AChartRealtime.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Project\GUI\Widgets\ChartRealtime\ChartRealtime.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Project\GUI\Widgets\ChartRealtime\ChartRealtime.Designer.cs">
+      <DependentUpon>ChartRealtime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project\GUI\Widgets\ChartRealtime\Factory\Factory_ChartRealtime.cs" />
+    <Compile Include="Project\GUI\Widgets\ChartRealtime\Factory\IFactory_ChartRealtime.cs" />
+    <Compile Include="Project\GUI\Widgets\ChartHeideable\ChartHideable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Project\GUI\Widgets\ChartHeideable\ChartHideable.Designer.cs">
+      <DependentUpon>ChartHideable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project\GUI\Widgets\ChartRealtime\IChartRealtime.cs" />
+    <Compile Include="Project\GUI\Widgets\ChartHeideable\Factory\Factory_ChartHideable.cs" />
+    <Compile Include="Project\GUI\Widgets\ChartHeideable\Factory\IFactory_ChartHideable.cs" />
+    <Compile Include="Project\GUI\Widgets\ChartHeideable\IChartHideable.cs" />
+    <Compile Include="Project\GUI\Windows\WindowMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Project\GUI\Windows\WindowMain.Designer.cs">
+      <DependentUpon>WindowMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Project\GlobalSettings.cs" />
+    <Compile Include="Project\Infrastructure\ISizeable\I2DSize.cs" />
+    <Compile Include="Project\NavigationOfPages.cs" />
+    <Compile Include="Project\Infrastructure\GUI\TabControlX.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Project\GUI\Pages\PageMain\IViewMain.cs" />
+    <Compile Include="Project\Infrastructure\IContainer.cs" />
+    <Compile Include="Project\Infrastructure\ITimer.cs" />
+    <Compile Include="Project\Infrastructure\TimerSynchron.cs" />
+    <Compile Include="Project\ClassRelations\Relation__PageMain.cs" />
+    <Compile Include="Project\Program.cs" />
+    <Compile Include="Project\DataSource\DataKeeper\Adapter_Datatable.cs" />
+    <Compile Include="Project\DataSource\Meter\Factory\Factory_Meter.cs" />
+    <Compile Include="Project\DataSource\Meter\Factory\IFactory_Meter.cs" />
+    <Compile Include="Project\DataSource\Tables\DataTable_Metrics.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Project\DataSource\DataKeeper\IDataKeeper.cs" />
+    <Compile Include="Project\DataSource\Meter\IMeter.cs" />
+    <Compile Include="Project\DataSource\Server\IServerClass.cs" />
+    <Compile Include="Project\DataSource\Meter\Meter_Mock.cs" />
+    <Compile Include="Project\DataSource\Server\ServerClass.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Project\GUI\Pages\PageMain\PageMain.resx">
+      <DependentUpon>PageMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project\GUI\Pages\PageSettings\PageSettings.resx">
+      <DependentUpon>PageSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project\GUI\Widgets\ChartHeideable\ChartHideable.resx">
+      <DependentUpon>ChartHideable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project\GUI\Widgets\ChartRealtime\ChartRealtime.resx">
+      <DependentUpon>ChartRealtime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Project\GUI\Windows\WindowMain.resx">
+      <DependentUpon>WindowMain.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
